@@ -1,0 +1,80 @@
+#main .content .section1
+{   margin: 0 auto;
+	height: 226px;
+	width: 736px;
+	padding-top: 94px;
+	padding-left: 405px;
+	background: url(../img/aboutsec1.png) left bottom no-repeat;
+	background-color: white;
+}
+#main .content .section1 h3
+{
+	height: 50px;
+	font-size: 16px;
+	color: #000000;
+	text-align: center;
+}
+#main .content .section1 p
+{
+	line-height: 29px;
+	font-size: 14px;
+	color: #000000;
+	border: bottom solid 1px #89898B;
+}
+#main .content .section2
+{
+	margin: 0 auto;
+	height: 402px;
+	width: 1141px;
+	background-color: #F7F7F7;
+}
+#main .content .section2 h3
+
+{
+	line-height: 78px;
+	font-size: 14px;
+	text-align: center;
+}
+#main .content .section2 li
+{   
+	text-align: center;
+	float: left;
+	width: 340px;
+}
+#main .content .section2 li img
+
+{   margin-bottom: 34px;
+  
+}
+#main .content .section3
+{
+	
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+#main .content .section3 h3
+{
+	
+	line-height: 86px;
+	font-size: 14px;
+	color: #000000;
+}
+#main .content .section3 .showbox
+{
+	margin: 0 auto;
+	width: 1141px;
+	overflow: hidden;
+}
+#main .content .section3 .showbox .show
+{
+	
+	width: 1210px;
+	
+}
+#main .content .section3 .showbox .show img
+{
+	
+	margin: 0 60px 60px 0;
+	
+}
